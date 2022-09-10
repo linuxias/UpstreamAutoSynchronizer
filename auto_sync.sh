@@ -12,6 +12,7 @@ repo_pairs=(
 	["linux"]="master"
 	["systemd"]="main"
 	["carbon-lang"]="trunk"
+        ["glib"]="main"
 )
 
 for repo in "${!repo_pairs[@]}"; do
