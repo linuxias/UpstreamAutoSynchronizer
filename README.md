@@ -1,4 +1,4 @@
-# AutoSynchronization
+# UpstreamAutoSynchronizer
 This project is to run github action that automatically supports synchronization of open source repositories that I am interested and forked.<br>
 The github action is scheduled to run every day at 00:00 and syncs my repo with the upstream repo I forked.
 
